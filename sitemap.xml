@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huyanxi.com/about/index.html</loc>
+    
+    <lastmod>2017-05-04T12:20:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://huyanxi.com/2017/04/19/dodo7/</loc>
     
     <lastmod>2017-04-19T04:51:53.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://huyanxi.com/2017/04/18/dodo-sixth-day/</loc>
     
     <lastmod>2017-04-18T13:52:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://huyanxi.com/about/index.html</loc>
-    
-    <lastmod>2017-04-18T09:10:23.000Z</lastmod>
     
   </url>
   
